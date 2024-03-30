@@ -1,2 +1,2 @@
 # Analyze_covid19_survey
-Analyzing COVID-19 survey data, run the DecisionTreeClassifier prediction model.
+Analyzing covid 19-survey data: general analysis, exploring relationships to find insights, running the DecisionTreeClassifier prediction model.
